@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+    ont a[]={1,2,3};
+    char b[]="ABC";
+    float c[]={1.1,1.2,1.3};
+    
+    //我不會寫
+ 
+    return 0;
+}
